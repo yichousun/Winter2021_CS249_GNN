@@ -1,4 +1,4 @@
-# UCLA Winter 2019 CS 249: Graph Neural Networks (GNN)
+# UCLA CS 249: Graph Neural Networks (GNN)
 
 
 In this course, each student will 1) present one GNN-related paper; 2) finish the course project with group. 
