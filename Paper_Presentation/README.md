@@ -18,7 +18,7 @@ The schedule for paper presentation is:
 - GNN and dynamic systems (3 lectures)
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
   - [2/2] Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML 2020. https://arxiv.org/abs/2002.09405 
-  - [2/4] Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. (**Guest Lecture**) https://arxiv.org/abs/2011.03880 
+  - [2/4] Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://arxiv.org/abs/2011.03880 (**Guest Lecture**) 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB  
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621 
