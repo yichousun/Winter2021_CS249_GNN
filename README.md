@@ -22,6 +22,6 @@ Every audience should participate in Q&A after the presentation, and finish the 
 For Course Project, each group can firstly create their own github code repo, and then create a subfolder under Course_Project, submit their slides and Github code link under it.
 
 **Schedule**
-- Part I (1/5, 1/7, 1/12): 
+- Part I (1/5, 1/7, 1/12): <a href = "http://web.cs.ucla.edu/~yzsun/classes/2021Winter_CS249/01Intro.pdf">1Intro.pdf</a>, <a href= "http://web.cs.ucla.edu/~yzsun/classes/2021Winter_CS249/02Graph_basics.pdf">2Graph_basics.pdf</a>
 - Part II (1/14 - 2/14):
 - Part III (3/9, 3/11):
