@@ -23,5 +23,5 @@ For Course Project, each group can firstly create their own github code repo, an
 
 **Schedule**
 - Part I (1/5, 1/7, 1/12): <a href = "http://web.cs.ucla.edu/~yzsun/classes/2021Winter_CS249/01Intro.pdf">1Intro.pdf</a>, <a href= "http://web.cs.ucla.edu/~yzsun/classes/2021Winter_CS249/02Graph_basics.pdf">2Graph_basics.pdf</a>
-- Part II (1/14 - 2/14):
+- Part II (1/14 - 2/14): <a href = "/Paper_Presentation">Paper Presentation Schedule</a>
 - Part III (3/9, 3/11):
