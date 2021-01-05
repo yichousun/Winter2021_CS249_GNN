@@ -3,7 +3,7 @@
 
 In this course, each student will 1) present one GNN-related paper; 2) finish the course project with group. 
 
-This Github repo is the place each student submit their report and code for both **Paper Presentation** and **Course Project**.
+This Github repo is the place where each student submit their report and code for both **Paper Presentation** and **Course Project**.
 
 For Paper Presentation, the presenter should upload the following files to each given folder:
 
