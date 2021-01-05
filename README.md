@@ -1,6 +1,9 @@
 # UCLA CS 249: Graph Neural Networks (GNN)
 
+**Course Description**
+This is a graduate-level research-oriented course offered in Winter 2021. The course aims to introduce and discuss recent advances in graph neural networks (GNNs), with the goal to design deep learning algorithms for graph data for different graph applications. The course contains lecture time by the instructor covering basics of graph neural networks, and paper reading and presentation by students covering recent GNN papers. The students are expected to conduct a team-based research project related to GNN and present the project to the whole class.
 
+**Course Requirement**
 In this course, each student will 1) present one GNN-related paper; 2) finish the course project with group. 
 
 This Github repo is the place where each student submit their report and code for both **Paper Presentation** and **Course Project**.
