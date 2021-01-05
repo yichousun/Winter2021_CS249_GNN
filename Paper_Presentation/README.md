@@ -25,8 +25,9 @@ The schedule for paper presentation is:
     - Presenters: **Yuanhao Xiong, Xiangning Chen, Li-Cheng Lan**
 
 - GNNs and Programming Language (2 lectures)
-  - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB  
-  - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621 
+  - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
+  - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
+    - Presenters: **Hemil Desai**
 - Graph Synthesis (4 lectures)
   - [2/16] Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec, GCPN: Graph Convolutional Policy Network, NeurIPS 2018. https://arxiv.org/abs/1806.02473 
   - [2/18] Nicola De Cao, Thomas Kipf, MolGAN: An implicit generative model for small molecular graphs, 2018. https://arxiv.org/pdf/1805.11973.pdf 
