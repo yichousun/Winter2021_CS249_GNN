@@ -20,3 +20,8 @@ For Paper Presentation, the presenter should upload the following files to each 
 Every audience should participate in Q&A after the presentation, and finish the quiz using the quiz link after the course.
 
 For Course Project, each group can firstly create their own github code repo, and then create a subfolder under Course_Project, submit their slides and Github code link under it.
+
+**Schedule**
+- Part I (1/5, 1/7, 1/12): 
+- Part II (1/14 - 2/14):
+- Part III (3/9, 3/11):
