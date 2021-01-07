@@ -21,7 +21,7 @@ The schedule for paper presentation is:
     - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**
 - GNN and dynamic systems (3 lectures)
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
-    - Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**
+    - Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
   - [2/2] Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://arxiv.org/abs/2011.03880 (**Guest Lecture**) 
     - Guest Lecturer: **Zijie Huang**
   - [2/4] Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML 2020. https://arxiv.org/abs/2002.09405  
@@ -44,7 +44,6 @@ The schedule for paper presentation is:
   - (Optional Reading) Scalable Deep Generative Modeling for Sparse Graphs. ICML 2020. https://arxiv.org/pdf/2006.15502.pdf 
 - Expressive Power of GNNs (2 lectures)
   - [3/2] (GNN and WL) Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks?  ICLR 2019.  
-      - Presenters: **Qing Li**
   - [3/4] (High-Order GNNs) Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman, Provably Powerful Graph Networks, NeurIPS, 2019. https://arxiv.org/abs/1905.11136 
   - (Optional Reading) Ryoma Sato, Makoto Yamada, and Hisashi Kashima.  Random features strengthen graph neural networks. arXiv preprint, 2020.
   - (Optional Reading) Can Graph Neural Networks Count Substructures. NeurIPS 2020.
