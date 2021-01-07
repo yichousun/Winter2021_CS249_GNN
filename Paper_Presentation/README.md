@@ -29,7 +29,7 @@ The schedule for paper presentation is:
 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
-    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)**
+    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)**
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
     - Presenters: **Hemil Desai**
 - Graph Synthesis (4 lectures)
@@ -44,6 +44,7 @@ The schedule for paper presentation is:
   - (Optional Reading) Scalable Deep Generative Modeling for Sparse Graphs. ICML 2020. https://arxiv.org/pdf/2006.15502.pdf 
 - Expressive Power of GNNs (2 lectures)
   - [3/2] (GNN and WL) Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks?  ICLR 2019.  
+      - Presenters: **Yu Yang (yuyang@cs.ucla.edu)**
   - [3/4] (High-Order GNNs) Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman, Provably Powerful Graph Networks, NeurIPS, 2019. https://arxiv.org/abs/1905.11136 
   - (Optional Reading) Ryoma Sato, Makoto Yamada, and Hisashi Kashima.  Random features strengthen graph neural networks. arXiv preprint, 2020.
   - (Optional Reading) Can Graph Neural Networks Count Substructures. NeurIPS 2020.
