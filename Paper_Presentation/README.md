@@ -18,7 +18,7 @@ The schedule for paper presentation is:
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
     - Presenters: Daniel Ahn
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
-    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu), Ruochen Wang (ruocwang@ucla.edu)**
+    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**
 - GNN and dynamic systems (3 lectures)
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
     - Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
@@ -29,7 +29,7 @@ The schedule for paper presentation is:
 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
-    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)**
+    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)** **Ruochen Wang (ruocwang@ucla.edu)**
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
     - Presenters: **Hemil Desai**
 - Graph Synthesis (4 lectures)
