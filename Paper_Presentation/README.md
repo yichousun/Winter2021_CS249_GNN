@@ -29,7 +29,7 @@ The schedule for paper presentation is:
 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
-    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)**
+    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)**
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
     - Presenters: **Hemil Desai**
 - Graph Synthesis (4 lectures)
