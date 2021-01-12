@@ -18,7 +18,7 @@ The schedule for paper presentation is:
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
     - Presenters: Daniel Ahn (Email me about forming a team for presentations and final project dahn@g.ucla.edu)
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
-    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**, Lucas Tecot (lucastecot@gmail.edu)
+    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**
 - GNN and dynamic systems (3 lectures)
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
     - Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
@@ -47,7 +47,7 @@ The schedule for paper presentation is:
   - [3/2] (GNN and WL) Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks?  ICLR 2019.  
       - Presenters: **Yu Yang (yuyang@cs.ucla.edu)**, **Yihe Deng**, **Mingyu Derek Ma (ma@cs.ucla.edu)**
   - [3/4] (High-Order GNNs) Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman, Provably Powerful Graph Networks, NeurIPS, 2019. https://arxiv.org/abs/1905.11136 
-    - Presenters: **Difan Zou**
+    - Presenters: **Difan Zou**, **Lucas Tecot** (lucastecot@gmail.edu)
   - (Optional Reading) Ryoma Sato, Makoto Yamada, and Hisashi Kashima.  Random features strengthen graph neural networks. arXiv preprint, 2020.
   - (Optional Reading) Can Graph Neural Networks Count Substructures. NeurIPS 2020.
   - (Optional Reading) Ryoma Sato, A Survey on The Expressive Power of Graph Neural Networks. https://arxiv.org/abs/2003.04078
