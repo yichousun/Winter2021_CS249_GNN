@@ -34,7 +34,7 @@ The schedule for paper presentation is:
     - Presenters: **Hemil Desai**
 - Graph Synthesis (4 lectures)
   - [2/16] Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec, GCPN: Graph Convolutional Policy Network, NeurIPS 2018. https://arxiv.org/abs/1806.02473
-      - Presenters: **Howard Xie (howardx@cs.ucla.edu) Shanxiu He (heshanxiu@g.ucla.edu)**
+      - Presenters: **Howard Xie (howardx@cs.ucla.edu) Shanxiu He (heshanxiu@g.ucla.edu) Justin Yi (joostinyi00@gmail.com)**
   - [2/18] Nicola De Cao, Thomas Kipf, MolGAN: An implicit generative model for small molecular graphs, 2018. https://arxiv.org/pdf/1805.11973.pdf 
       - Presenters: **Daisy Zheng (dayz@g.ucla.edu)**, **Nilay Shah (nshah76@ucla.edu)** **Nima Zaghari (nzaghari@cs.ucla.edu)**
   - [2/23] Aditya Grover, Aaron Zweig, Stefano Ermon, Graphite: Iterative Generative Modeling of Graphs. ICML 2019. http://proceedings.mlr.press/v97/grover19a.html.
