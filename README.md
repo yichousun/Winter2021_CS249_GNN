@@ -10,7 +10,7 @@ In this course, each student will 1) present one GNN-related paper; 2) finish th
 
 This Github repo is the place where each student submit their report and code for both **Paper Presentation** and **Course Project**.
 
-For Paper Presentation, the presenter should upload the following files to each given folder **before the each lecture**:
+For Paper Presentation, the presenter should upload the following files to each given folder **before each lecture**:
 
 - *Report*: briefly summarize the paper. It should be structured as an memo, including introduction, related work, solution, experimental results, major conclusions, pros and cons. 
 - *Demo*: an interactive Jupyter Notebook / Colab to show visualize the result of the paper. For most paper, it's highly recommended that you download the source code of the paper, running the main model and see the results or visualization in this notebook.
