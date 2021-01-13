@@ -16,7 +16,7 @@ The schedule for paper presentation is:
   - [1/19] Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar, Composition-based Multi-Relational Graph Convolutional Networks. ICLR 2020. https://arxiv.org/abs/1911.03082 
     - Presenters: Sripath Mishra (Mishra60@g.ucla.edu)
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
-    - Presenters: Daniel Ahn (Email me about forming a team for presentations and final project dahn@g.ucla.edu)
+    - Presenters: 
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
     - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**
 - GNN and dynamic systems (3 lectures)
@@ -40,6 +40,7 @@ The schedule for paper presentation is:
   - [2/23] Aditya Grover, Aaron Zweig, Stefano Ermon, Graphite: Iterative Generative Modeling of Graphs. ICML 2019. http://proceedings.mlr.press/v97/grover19a.html.
       - Presenters: **Tameez Latib (tameezlatib@gmail.com)**, **Mia Levy (miamlevy@yahoo.com)**, **Hengda Shi (hengda.shi@cs.ucla.edu)**
   - [2/25] Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang, GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation. ICLR 2020. https://arxiv.org/abs/2001.09382 
+      - Presenters: **Daniel Ahn (dahn@g.ucla.edu)**
   - (Optional Reading) You, J., Ying, R., Ren, X., Hamilton, W. L., and Leskovec, J. GraphRNN: A deep generative model for graphs. ICML 2018.
   - (Optional Reading) Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, Will Hamilton, David K. Duvenaud, Raquel Urtasun, Richard Zemel, Efficient Graph Generation with Graph Recurrent Attention Networks. NeurIPS 2019. 
   - (Optional Reading) Scalable Deep Generative Modeling for Sparse Graphs. ICML 2020. https://arxiv.org/pdf/2006.15502.pdf 
