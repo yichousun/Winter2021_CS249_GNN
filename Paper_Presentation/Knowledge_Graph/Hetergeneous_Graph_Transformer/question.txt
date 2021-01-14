@@ -1,0 +1,18 @@
+1. (Multiple-Choice) Given a heterogeneous graph with schema Paper-Author-Institute, with meta relations <paper, cite, paper>, <author, write, paper>, <author, belong, institute>, and a 2-layer HGT model, for a output paper, what are the authors nodes it can reach?
+
+a. this paper's author
+b. the authors of those papers that cites this paper.
+c. the authors of those papers that this paper cits.
+d. people that belong to same institute with this paper's author
+
+
+2. (Single-Choice) To capture temporal information, what strategy does HGT employ?
+
+a. split subgraphs based on differernt timestamp.
+b. parametrize the weight matrices by different time.
+c. add temporal embedding when conducting message passing from source to target.
+
+3. (Single-Choice) To handle large-scale network, HGT employs subgraph sampling. As the heteroengeous graphs are mostly imbalanced regarding to node type (e.g., the number of paper nodes is much larger than venue nodes), Will the subgraph sampled by HGT also be type-imbalanced?
+
+a. Yes.
+b. No.
