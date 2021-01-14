@@ -6,7 +6,7 @@ Most GNNs are designed for homogeneous networks, in which all nodes or edges hav
 
 ## Related Work
 
-Heterogeneous graphs, or so-called relational graph, is a special type of graph, in which their nodes and edges are associated with a specific type. Heterogeneous graphs can model complex systems, and it’s flexible to capture rich semantic knowledge. For more details, we can refer to (this book)[https://www.morganclaypool.com/doi/abs/10.2200/s00433ed1v01y201207dmk005].
+Heterogeneous graphs, or so-called relational graph, is a special type of graph, in which their nodes and edges are associated with a specific type. Heterogeneous graphs can model complex systems, and it’s flexible to capture rich semantic knowledge. For more details, we can refer to [this book](https://www.morganclaypool.com/doi/abs/10.2200/s00433ed1v01y201207dmk005).
 
 
 We firstly introduce a meta relation schema, which is a high-level description of a heterogenous graph semantic. For an edge e = (s, t) linked from source node s to target node t, its meta relation is denoted as ⟨τ (s), ϕ(e), τ (t)⟩. For example, the Microsoft Academic Graph (MAG) has the following schema, where the author and paper can be connected by different authorshiops, paper and venue can be connected by conf/journal, paper and field can be connected by different level.
