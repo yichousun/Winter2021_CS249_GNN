@@ -1,5 +1,7 @@
 # Heterogeneous Graph Transformer
 
+The codes are avaiable in [this repo](https://github.com/acbull/pyHGT).
+
 ## Introduction
 
 Most GNNs are designed for homogeneous networks, in which all nodes or edges have the same feature space and representation distribution, making them infeasible for representing evolving heterogeneous structures. In this paper, we present the Heterogeneous Graph Transformer architecture for modeling Web-scale heterogeneous and dynamic graphs (Microsoft Academic Graph). The model can automatically learn and extract meaningful metapaths for different downstream tasks.
