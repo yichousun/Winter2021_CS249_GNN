@@ -29,14 +29,14 @@ The schedule for paper presentation is:
 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
-    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)** **Ruochen Wang (ruocwang@ucla.edu)**
+    - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)**, **Yujun Zhao (yujunzhao.ming@gmail.com)**, **Ruochen Wang (ruocwang@ucla.edu)**
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
     - Presenters: **Hemil Desai**, **Zixiang Chen(chenzx19@cs.ucla.edu)**, **Jiafan He(jiafanhe19@ucla.edu)**
 - Graph Synthesis (4 lectures)
   - [2/16] Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec, GCPN: Graph Convolutional Policy Network, NeurIPS 2018. https://arxiv.org/abs/1806.02473
-      - Presenters: **Howard Xie (howardx@cs.ucla.edu) Shanxiu He (heshanxiu@g.ucla.edu) Justin Yi (joostinyi00@gmail.com)**
+      - Presenters: **Howard Xie (howardx@cs.ucla.edu), Shanxiu He (heshanxiu@g.ucla.edu), Justin Yi (joostinyi00@gmail.com)**
   - [2/18] Nicola De Cao, Thomas Kipf, MolGAN: An implicit generative model for small molecular graphs, 2018. https://arxiv.org/pdf/1805.11973.pdf 
-      - Presenters: **Daisy Zheng (dayz@g.ucla.edu)**, **Nilay Shah (nshah76@ucla.edu)** **Nima Zaghari (nzaghari@cs.ucla.edu)**
+      - Presenters: **Daisy Zheng (dayz@g.ucla.edu)**, **Nilay Shah (nshah76@ucla.edu)**, **Nima Zaghari (nzaghari@cs.ucla.edu)**
   - [2/23] Aditya Grover, Aaron Zweig, Stefano Ermon, Graphite: Iterative Generative Modeling of Graphs. ICML 2019. http://proceedings.mlr.press/v97/grover19a.html.
       - Presenters: **Tameez Latib (tameezlatib@gmail.com)**, **Mia Levy (miamlevy@yahoo.com)**, **Hengda Shi (hengda.shi@cs.ucla.edu)**
   - [2/25] Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, Jian Tang, GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation. ICLR 2020. https://arxiv.org/abs/2001.09382 
@@ -48,7 +48,7 @@ The schedule for paper presentation is:
   - [3/2] (GNN and WL) Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks?  ICLR 2019.  
       - Presenters: **Yu Yang (yuyang@cs.ucla.edu)**, **Yihe Deng (yihedeng@g.ucla.edu)**, **Mingyu Derek Ma (ma@cs.ucla.edu)**, **Te-Lin Wu (telinwu@cs.ucla.edu)**
   - [3/4] (High-Order GNNs) Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman, Provably Powerful Graph Networks, NeurIPS, 2019. https://arxiv.org/abs/1905.11136 
-    - Presenters: **Difan Zou**, **Lucas Tecot** (lucastecot@gmail.edu) **Weitong Zhang(weightzero@g.ucla.edu)**
+    - Presenters: **Difan Zou**, **Lucas Tecot** (lucastecot@gmail.edu), **Weitong Zhang(weightzero@g.ucla.edu)**
   - (Optional Reading) Ryoma Sato, Makoto Yamada, and Hisashi Kashima.  Random features strengthen graph neural networks. arXiv preprint, 2020.
   - (Optional Reading) Can Graph Neural Networks Count Substructures. NeurIPS 2020.
   - (Optional Reading) Ryoma Sato, A Survey on The Expressive Power of Graph Neural Networks. https://arxiv.org/abs/2003.04078
