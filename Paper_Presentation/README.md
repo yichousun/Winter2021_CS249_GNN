@@ -12,7 +12,7 @@ The schedule for paper presentation is:
 
 - GNNs and Knowledge Graphs (3 lectures)
   - [1/14] Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun, Heterogeneous Graph Transformer. WWW 2020. https://arxiv.org/abs/2003.01332 (**Guest Lecture**) 
-    - Guest Lecturer: **Ziniu Hu** [[Presentation]](/Knowledge_Graph/Hetergeneous_Graph_Transformer/)
+    - Guest Lecturer: **Ziniu Hu** [[Presentation]](Knowledge_Graph/Hetergeneous_Graph_Transformer/)
   - [1/19] Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar, Composition-based Multi-Relational Graph Convolutional Networks. ICLR 2020. https://arxiv.org/abs/1911.03082 
     - Presenters: **Sripath Mishra (Mishra60@g.ucla.edu)**
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
