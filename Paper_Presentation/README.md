@@ -14,9 +14,9 @@ The schedule for paper presentation is:
   - [1/14] Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun, Heterogeneous Graph Transformer. WWW 2020. https://arxiv.org/abs/2003.01332 (**Guest Lecture**) 
     - Guest Lecturer: **Ziniu Hu**
   - [1/19] Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar, Composition-based Multi-Relational Graph Convolutional Networks. ICLR 2020. https://arxiv.org/abs/1911.03082 
-    - Presenters: Sripath Mishra (Mishra60@g.ucla.edu)
+    - Presenters: **Sripath Mishra (Mishra60@g.ucla.edu)**
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
-    - Presenters: **Jingyue Shen** (brianshen@ucla.edu), Boyuan He, **Haochen Li(joshuali1997@yahoo.com)**
+    - Presenters: **Jingyue Shen** (brianshen@ucla.edu), **Boyuan He**, **Haochen Li(joshuali1997@yahoo.com)**
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
     - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**
 - GNN and dynamic systems (3 lectures)
@@ -31,7 +31,7 @@ The schedule for paper presentation is:
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
     - Presenters: **Liunian Li (liunian.harold.li@cs.ucla.edu)** **Yujun Zhao (yujunzhao.ming@gmail.com)** **Ruochen Wang (ruocwang@ucla.edu)**
   - [2/11] David Bieber, Charles Sutton, Hugo Larochelle, Daniel Tarlow, Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks, NeurIPS 2020. https://arxiv.org/abs/2010.12621
-    - Presenters: **Hemil Desai** **Zixiang Chen(chenzx19@cs.ucla.edu)**  **Jiafan He(jiafanhe19@ucla.edu)**
+    - Presenters: **Hemil Desai**, **Zixiang Chen(chenzx19@cs.ucla.edu)**, **Jiafan He(jiafanhe19@ucla.edu)**
 - Graph Synthesis (4 lectures)
   - [2/16] Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec, GCPN: Graph Convolutional Policy Network, NeurIPS 2018. https://arxiv.org/abs/1806.02473
       - Presenters: **Howard Xie (howardx@cs.ucla.edu) Shanxiu He (heshanxiu@g.ucla.edu) Justin Yi (joostinyi00@gmail.com)**
