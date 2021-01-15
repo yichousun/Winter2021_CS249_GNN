@@ -4,4 +4,4 @@ For Course Project, each group can firstly create their own github code repo, an
 | Team ID | Team Name | Team Members | Team Leader | Project Title |
 | ------ | ------ | ------ | ------ | ------ |
 |1| First Signup Team | Hengda Shi (hengda.shi@cs.ucla.edu), Benlin Liu (liubenlin@cs.ucla.edu) | Jiayue Sun (jysun@cs.ucla.edu) | Keypoint Causal Relation Discovery for Deformable Objects via GNN|
-|2|||||
+|2| TLM | Te-Lin Albert Wu (telinwu@cs.ucla.edu), Liunan Harold Li (liunian.harold.li@cs.ucla.edu), Mingyu Derek Ma (mdma@cs.ucla.edu) | Mingyu Derek Ma (mdma@cs.ucla.edu) | Hierarchical Concept Representation Learning via Poincare-GNN |
