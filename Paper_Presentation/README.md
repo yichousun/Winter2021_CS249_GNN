@@ -18,7 +18,7 @@ The schedule for paper presentation is:
   - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
     - Presenters: **Jingyue Shen** (brianshen@ucla.edu), **Boyuan He**, **Haochen Li(joshuali1997@yahoo.com)**
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
-    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**, **Te-Lin Wu (telinwu@cs.ucla.edu)**
+    - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**, **Te-Lin Wu (telinwu@cs.ucla.edu)**, **Benlin Liu (liubenlin@cs.ucla.edu)**
 - GNN and dynamic systems (3 lectures)
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
     - Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
