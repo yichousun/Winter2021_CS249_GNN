@@ -3,5 +3,5 @@ For Course Project, each group can firstly create their own github code repo, an
 **Project Team Sign-Up Table (3-4 people / team)**
 | Team ID | Team Name | Team Members | Team Leader | Project Title |
 | ------ | ------ | ------ | ------ | ------ |
-|1|||||
+|1| First Signup Team | Hengda Shi (hengda.shi@cs.ucla.edu), Benlin Liu (liubenlin@cs.ucla.edu) | Jiayue Sun (jysun@cs.ucla.edu) | Keypoint Causal Relation Discovery for Deformable Objects via GNN|
 |2|||||
