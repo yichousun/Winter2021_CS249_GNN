@@ -11,7 +11,7 @@ Every audience should participate in Q&A after the presentation, and finish the 
 The schedule for paper presentation is:
 
 - GNNs and Knowledge Graphs (4 lectures)
-  - [1/14] [[Presentation]](Knowledge_Graph/Hetergeneous_Graph_Transformer/) Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun, Heterogeneous Graph Transformer. WWW 2020. https://arxiv.org/abs/2003.01332 (**Guest Lecture**) 
+  - [1/14] [**(Presentation)**](Knowledge_Graph/Hetergeneous_Graph_Transformer/) Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun, Heterogeneous Graph Transformer. WWW 2020. https://arxiv.org/abs/2003.01332 (**Guest Lecture**) 
     - Guest Lecturer: **Ziniu Hu (bull@cs.ucla.edu)** 
   - [1/19] Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar, Composition-based Multi-Relational Graph Convolutional Networks. ICLR 2020. https://arxiv.org/abs/1911.03082 
     - Presenters: **Sripath Mishra (Mishra60@g.ucla.edu)**, **Te-Lin Wu (telinwu@cs.ucla.edu)**
