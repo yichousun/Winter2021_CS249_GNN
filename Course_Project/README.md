@@ -8,4 +8,4 @@ For Course Project, each group can firstly create their own github code repo, an
 |3| XCL | Yuanhao Xiong (yhxiong@cs.ucla.edu), Xiangning Chen (xiangning@cs.ucla.edu), Li-Cheng Lan (lclan@cs.ucla.edu) | Yuanhao Xiong (yhxiong@cs.ucla.edu) |  |
 |4| Rolling a Dice | Shuwen Qiu (s.qiu@ucla.edu), Qing Li (dylan.liqing@gmail.com), Yu Yang (yuyang@cs.ucla.edu), Yihe Deng (yihedeng@g.ucla.edu) |  Yihe Deng (yihedeng@g.ucla.edu) | |
 |5| ZZZ | Difan Zou, Ziniu Hu (bull@cs.ucla.edu), Zongyue Qin  |  | |
-|6| Batman and Robin | Sriapth Mishra(Mishra60@g.ucla.edu) | Hemil Desai (hemil10@g.ucla.edu) |  | |
+|6| Gotham City | Sriapth Mishra(Mishra60@g.ucla.edu),Hemil Desai (hemil10@g.ucla.edu) | Sriapth Mishra(Mishra60@g.ucla.edu) |  | |
