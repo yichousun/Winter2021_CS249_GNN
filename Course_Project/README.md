@@ -6,4 +6,4 @@ For Course Project, each group can firstly create their own github code repo, an
 |1| First Signup Team | Hengda Shi (hengda.shi@cs.ucla.edu), Benlin Liu (liubenlin@cs.ucla.edu), Jiayue Sun (jysun@cs.ucla.edu) | Jiayue Sun (jysun@cs.ucla.edu) | Keypoint Causal Relation Discovery for Deformable Objects via GNN|
 |2| TLM | Te-Lin Albert Wu (telinwu@cs.ucla.edu), Liunian Harold Li (liunian.harold.li@cs.ucla.edu), Mingyu Derek Ma (mdma@cs.ucla.edu) | Mingyu Derek Ma (mdma@cs.ucla.edu) | Hierarchical Concept Representation Learning via Poincare-GNN |
 |2| XCL | Yuanhao Xiong (yhxiong@cs.ucla.edu), Xiangning Chen (xiangning@cs.ucla.edu), Li-Cheng Lan (lclan@cs.ucla.edu) | Yuanhao Xiong (yhxiong@cs.ucla.edu) |  |
-|4| Rolling a Dice | Shuwen Qiu, Qing Li (dylan.liqing@gmail.com), Yu Yang (yuyang@cs.ucla.edu), Yihe Deng (yihedeng@g.ucla.edu) |  Yihe Deng (yihedeng@g.ucla.edu) | |
+|4| Rolling a Dice | Shuwen Qiu(s.qiu@ucla.edu), Qing Li (dylan.liqing@gmail.com), Yu Yang (yuyang@cs.ucla.edu), Yihe Deng (yihedeng@g.ucla.edu) |  Yihe Deng (yihedeng@g.ucla.edu) | |
