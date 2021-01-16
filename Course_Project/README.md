@@ -7,4 +7,4 @@ For Course Project, each group can firstly create their own github code repo, an
 |2| TLM | Te-Lin Albert Wu (telinwu@cs.ucla.edu), Liunian Harold Li (liunian.harold.li@cs.ucla.edu), Mingyu Derek Ma (mdma@cs.ucla.edu) | Mingyu Derek Ma (mdma@cs.ucla.edu) | Hierarchical Concept Representation Learning via Poincare-GNN |
 |3| XCL | Yuanhao Xiong (yhxiong@cs.ucla.edu), Xiangning Chen (xiangning@cs.ucla.edu), Li-Cheng Lan (lclan@cs.ucla.edu) | Yuanhao Xiong (yhxiong@cs.ucla.edu) |  |
 |4| Rolling a Dice | Shuwen Qiu (s.qiu@ucla.edu), Qing Li (dylan.liqing@gmail.com), Yu Yang (yuyang@cs.ucla.edu), Yihe Deng (yihedeng@g.ucla.edu) |  Yihe Deng (yihedeng@g.ucla.edu) | |
-|5|  | Difan Zou, Ziniu Hu (bull@cs.ucla.edu), Zongyue Qin  |  | |
+|5| DZZ | Difan Zou, Ziniu Hu (bull@cs.ucla.edu), Zongyue Qin  |  | |
