@@ -1,6 +1,6 @@
 # Composition-based Multi-Relational Graph Convolutional Networks
 
-The Slides are avaiable as [Google Slides format](https://github.com/malllabiisc/CompGCN).
+The Slides are avaiable as [Google Slides format](https://docs.google.com/presentation/d/1kenjAuJoG83hOrqKcd42uZOAbOmktD9XjG5kIjtRifQ/edit?usp=sharing).
 
 The codes are avaiable in [this repo](https://github.com/malllabiisc/CompGCN).
 
