@@ -12,3 +12,4 @@ For Course Project, each group can firstly create their own github code repo, an
 |7| TBD |Tameez Latib (tameezlatib@gmail.com), Howard Xie (howardx@cs.ucla.edu), Daniel Ahn (dahn@g.ucla.edu), Mia Levy (miamlevy@yahoo.com) |  |  | |
 |8| TBD | Nilay Shah (nshah76@ucla.edu), Daisy Zheng (dayz@g.ucla.edu), Nima Zaghari (nzaghari@cs.ucla.edu), Xuan Lin (xuanlin1991@gmail.com) | Nilay Shah (nshah76@ucla.edu) | |
 |9| No Name | Jingyue Shen (brianshen@ucla.edu), Haochen Li, Boyuan He| | |
+|10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long| | |
