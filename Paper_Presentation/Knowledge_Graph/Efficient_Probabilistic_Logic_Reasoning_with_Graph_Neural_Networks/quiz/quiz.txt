@@ -1,20 +1,17 @@
-1. Can developer directly apply GNN on knowledge graph? (single choice)
+1. What is a potential problem for applying GNN-based methods on knowledge graphs? (single choice)
 
-a. Yes. Since GNN does not require sufficient labels from the dataset, GNN would achieve good performance regardless to the spare nature of knowlege graph. 
-a. Yes. Knowledge Graph contains enough information for GNN to learn.
-b. No. Long tails nature of Knowledge makes applying GNN hard since GNN require sufficient labels to acheive good performace. 
-b. No. Unobserved features in Knowlege Graph could never be learned by any neural network through any means. 
+a. There is no potential problem. GNN can perform well on all graph-related problems. 
+b. Long-tail nature of Knowledge Graph makes applying GNN hard since GNN requires sufficient labeled instances to achieve good performance. 
+c. Unobserved features in Knowledge Graph could never be learned by any neural network through any means. 
 
 
-2. Which of following is true about Markov Logic Network(MLN)? (single choice)
+2. Which of the following is true about Markov Logic Network(MLN)? (single choice)
 
-a. Inference in MLN is computational intense.
+a. Inference in MLN is computationally intense.
 b. The MLN structure is normally sparser than knowledge graph
-c. Markov Logic Network is similar to Bayesian network except MLN's edges do not have directions
-d. a and b
-e. a and c
+c. a and b
 
-3. In regards to ExpressGNN, at which step is the GNN used?
+3. In regards to ExpressGNN, at which step is the GNN used in variational EM for Markov Logic Network(MLN)? (single choice)
 a. E step
 b. M step
 
