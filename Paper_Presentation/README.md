@@ -15,7 +15,7 @@ The schedule for paper presentation is:
     - Guest Lecturer: **Ziniu Hu (bull@cs.ucla.edu)** 
   - [1/19] [**(Presentation)**](Knowledge_Graph/Composition-based_Multi-Relational_Graph_Convolutional_Networks/) Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar, Composition-based Multi-Relational Graph Convolutional Networks. ICLR 2020. https://arxiv.org/abs/1911.03082 
     - Presenters: **Sripath Mishra (Mishra60@g.ucla.edu)**, **Te-Lin Wu (telinwu@cs.ucla.edu)**
-  - [1/21] Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
+  - [1/21] [**(Presentation)**](Knowledge_Graph/Efficient_Probabilistic_Logic_Reasoning_with_Graph_Neural_Networks/) Yuyu Zhang, Xinshi Chen, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song, Efficient Probabilistic Logic Reasoning with Graph Neural Networks. ICLR 2020. https://arxiv.org/abs/2001.11850 
     - Presenters: **Jingyue Shen** (brianshen@ucla.edu), **Boyuan He**, **Haochen Li(joshuali1997@yahoo.com)**
   - [1/26] Hongyu Ren, Jure Leskovec, Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs. NeurIPS 2020. https://arxiv.org/abs/2010.11465 
     - Presenters: **Zongyue Qin (qinzongyue@cs.ucla.edu)**, **Qian Long**, **Benlin Liu (liubenlin@cs.ucla.edu)**
