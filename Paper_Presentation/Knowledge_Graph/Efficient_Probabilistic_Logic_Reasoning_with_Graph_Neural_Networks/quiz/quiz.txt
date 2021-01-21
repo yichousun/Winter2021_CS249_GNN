@@ -1,0 +1,22 @@
+1. Can developer directly apply GNN on knowledge graph? (single choice)
+
+a. Yes. Since GNN does not require sufficient labels, GNN would achieve good performance regardless to the spare nature of knowlege graph. 
+a. Yes. Knowledge Graph contains enough information for GNN to learn.
+b. No. Long tails nature of Knowledge makes applying GNN hard since GNN require sufficient labels to acheive good performace. 
+b. No. Unobserved features in Knowlege Graph could never be learned by any neural network through any means. 
+
+
+2. Which of following is true about Markov Logic Network(MLN)? (single choice)
+
+a. Inference in MLN is computational intense.
+b. The MLN structure is normally sparser than knowledge graph
+c. Markov Logic Network is similar to Bayesian network except MLN's edges do not have directions
+d. a and b
+e. a and c
+
+3. In regards to ExpressGNN, which step does the GNN is used?
+a. E step
+b. M step
+
+
+
