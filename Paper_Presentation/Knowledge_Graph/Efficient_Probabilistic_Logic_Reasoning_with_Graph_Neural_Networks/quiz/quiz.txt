@@ -1,6 +1,6 @@
 1. Can developer directly apply GNN on knowledge graph? (single choice)
 
-a. Yes. Since GNN does not require sufficient labels, GNN would achieve good performance regardless to the spare nature of knowlege graph. 
+a. Yes. Since GNN does not require sufficient labels from the dataset, GNN would achieve good performance regardless to the spare nature of knowlege graph. 
 a. Yes. Knowledge Graph contains enough information for GNN to learn.
 b. No. Long tails nature of Knowledge makes applying GNN hard since GNN require sufficient labels to acheive good performace. 
 b. No. Unobserved features in Knowlege Graph could never be learned by any neural network through any means. 
