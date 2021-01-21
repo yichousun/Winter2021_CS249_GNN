@@ -2,7 +2,7 @@
 
 a. There is no potential problem. GNN can perform well on all graph-related problems. 
 b. Long-tail nature of Knowledge Graph makes applying GNN hard since GNN requires sufficient labeled instances to achieve good performance. 
-c. Unobserved features in Knowledge Graph could never be learned by any neural network through any means. 
+c. GNNs cannot be used to infer new links between two existing entities in knowledge graph. 
 
 
 2. Which of the following is true about Markov Logic Network(MLN)? (single choice)
