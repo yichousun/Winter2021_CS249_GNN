@@ -14,7 +14,7 @@ c. Markov Logic Network is similar to Bayesian network except MLN's edges do not
 d. a and b
 e. a and c
 
-3. In regards to ExpressGNN, which step does the GNN is used?
+3. In regards to ExpressGNN, at which step is the GNN used?
 a. E step
 b. M step
 
