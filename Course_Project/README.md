@@ -13,3 +13,17 @@ For Course Project, each group can firstly create their own github code repo, an
 |8| TBD | Nilay Shah (nshah76@ucla.edu), Daisy Zheng (dayz@g.ucla.edu), Nima Zaghari (nzaghari@cs.ucla.edu), Xuan Lin (xuanlin1991@gmail.com) | Nilay Shah (nshah76@ucla.edu) | |
 |9| No Name | Jingyue Shen (brianshen@ucla.edu), Haochen Li, Boyuan He| | |
 |10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long| | |
+
+**Office Hour Sign-Up Table**
+| Time Slots | Team ID |
+| 1/22 1:30 - 1:45 | |
+| 1/22 1:45 - 2:00 | |
+| 1/29 1:00 - 1:15||
+| 1/29 1:15 - 1:30||
+| 1/29 1:30 - 1:45||
+| 1/29 1:45 - 2:00||
+| 1/29 3:00 - 3:15||
+| 1/29 3:15 - 3:30||
+| 1/29 3:30 - 3:45||
+| 1/29 3:45 - 4:00||
+
