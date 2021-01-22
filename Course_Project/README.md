@@ -16,6 +16,7 @@ For Course Project, each group can firstly create their own github code repo, an
 
 **Office Hour Sign-Up Table**
 | Time Slots | Team ID |
+| ------ | ------ |
 | 1/22 1:30 - 1:45 | |
 | 1/22 1:45 - 2:00 | |
 | 1/29 1:00 - 1:15||
