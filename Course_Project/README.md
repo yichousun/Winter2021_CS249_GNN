@@ -20,7 +20,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | 1/22 1:30 - 1:45 | |
 | 1/22 1:45 - 2:00 | |
 | 1/29 1:00 - 1:15|Gotham City|
-| 1/29 1:15 - 1:30|4 Rolling a Dice|
+| 1/29 1:15 - 1:30|4. Rolling a Dice|
 | 1/29 1:30 - 1:45||
 | 1/29 1:45 - 2:00||
 | 1/29 3:00 - 3:15||
