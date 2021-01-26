@@ -1,0 +1,16 @@
+1. (multiple-choice) Which probabilistic logical operators does BetaE support?
+
+a. Projection.
+b. Intersection.
+c. Negation.
+
+2. (single choice) Assume we have a Beta embedding (a, b), and N is negation operator. What is N[(a, b])?
+
+a. (b, a)
+b. (1/a, 1/b)
+c. (1/b, 1/a)
+
+3. (True or False)  Although we can model union operators with Intersection and Negation operators (De Morgan's laws), there are still some union-based queries that BetaE cannot model in theory, if the queries are not in DNF.
+
+a. True
+b. False 
