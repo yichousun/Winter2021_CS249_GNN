@@ -7,6 +7,7 @@ Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan
 ## Related works
 
 ## Method
+![Schematic of an interaction network](schematic.png)
 This paper introduces the *Interaction Networks* that can reason about how objects in complex systems interact, supporting dynamic prediciton and inference about the abstract properties of the systems. 
 
 ## Exprimental Results
