@@ -3,8 +3,15 @@ Authors: Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray 
 Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
 
 ## Introduction
+Representing and reasoning about objects, relations, and physics is a “core” domain of human common sense knowledge. Many everyday problems like predicting what will happen next in physical environments and inferring underlying properties of complex scenes are challenging to models, while people can nevertheless solve such problems by decomposing the scenario into distinct objects and relations, and reasoning about the consequences of their interactions and dynamics. In this paper, the authors propose Interaction Network that can reason about objects and relations in complex systems. It takes advantage of three powerful approaches: structured models, simulation, and deep learning. Experimental results show that the model can predict future states of a complex system and abstract physical properties such as energy. It can also be generalized to novel systems with different numbers and configurations of elements.
 
 ## Related works
+The behavior of Interaction Network is similar in spirit to a physical simulation engine(D Baraff, 2001). The engine will generate sequences of states by repeatedly applying rules that approximate the effects of physical interactions and dynamics on objects over time
+the interaction rules are relation-centric, operating on two or more objects that are interacting
+the dynamics rules are object-centric, operating on individual objects and the aggregated effects of the interactions they participate in.
+
+Previous AI work on physical reasoning includes “NeuroAnimator” (R Grzeszczuk et al., 1998), training neural networks to predict and control the state of articulated bodies. Ladický et al. (2015) used regression forests to learn fluid dynamics. More recently, convolutional neural networks (CNNs) are used to predict and control a moving ball from an image centered at its coordinates(K Fragkiadaki et al. 2016) and the 3D trajectory of an object after an external impulse is applied(R Mottaghi et al. 2016). Interaction Network is the first model offered as a general-purpose learnable physics engine
+
 
 ## Method
 ![Schematic of an interaction network](schematic.png)
