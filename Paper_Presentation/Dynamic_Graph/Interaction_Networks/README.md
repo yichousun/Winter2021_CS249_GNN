@@ -27,6 +27,7 @@ The experiments are conducted on three domains: n-body problem, balls bouncing i
 As for the next-step velocity prediction task, IN showcases orders of lower MSE test error compared to other baseline models. And it also generalizes well to systems with fewer and greater number of objects. The model trained on systems with larger number of objects also perform better than models trained on less complex system.
 
 As for the abstract value estimation task (potential energy), IN is also much accurate in potential energy prediction than all other baselines. It presumably learns the gravitational and spring potential energy functions, applies them to the relations ihe domain, and combines the energy estimation results.
+![rollout predictions](experiment.png)
 
 ## Major Conclusions
 - IN shows strong ability to learn accurate physical simulations and can automatically generalize their training to novel contexts.
