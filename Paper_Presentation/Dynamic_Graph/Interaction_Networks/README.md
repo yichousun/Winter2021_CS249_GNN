@@ -21,9 +21,19 @@ Take physical reasoning as an example. An interaction network takes objects and 
 
 The above formulation can be expanded to larger and more complex systems by representing them as a graph, where the nodes correspond to the objects and the edges to the relations. The model rearranges the objects and relations into interaction terms by a marshaling function and computes their effects via a relational model. The effects are then aggregated and combined by an aggregation function with the objects and external effects to generate input for an object model, predicting how the interactions and dynamics influence the objects. This basic IN can predict the evolution of states in a dynamical system; for example, in physical simulation, the final output may represent the objects' future states. The IN can also be augmented with an additional aggregation model to predict global properties, such as energies, for the whole system. 
 
-## Exprimental Results
+## Experimental Results
+The experiments are conducted on three domains: n-body problem, balls bouncing in a box and n-mass string. And IN is evaluated on two prediction tasks: 1) predict velocity at the next time step, 2) estimate potential energy at the current time step. And it is compared with three other models: 1) constant velocity model that outputs the input velocity, 2) baseline MLP model that takes the flattened input data, 3) dynamics-only IN that eliminates the relation model.
 
-## Major Contributions
+As for the next-step velocity prediction task, IN showcases orders of lower MSE test error compared to other baseline models. And it also generalizes well to systems with fewer and greater number of objects. The model trained on systems with larger number of objects also perform better than models trained on less complex system.
+
+As for the abstract value estimation task (potential energy), IN is also much accurate in potential energy prediction than all other baselines. It presumably learns the gravitational and spring potential energy functions, applies them to the relations ihe domain, and combines the energy estimation results.
+
+## Major Conclusions
+- IN shows strong ability to learn accurate physical simulations and can automatically generalize their training to novel contexts.
+- It can roll out thousands of realistic future state predictions, even when trained only on single-step predictions.
+- IN present the first general-purpose learnable physics engine that can scale up to real-world problems.
+- IN provides a powerful general framework for reasoning about object and relations in complex real-world domains.
+
 
 ## Pros and Cons
 
