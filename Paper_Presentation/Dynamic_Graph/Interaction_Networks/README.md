@@ -38,6 +38,16 @@ As for the abstract value estimation task (potential energy), IN is also much ac
 
 
 ## Pros and Cons
-- a
-    - a
+- Pros
+    - First general-purpose physical engine
+    - Generalize their training to novel systems with different numbers and configurations of objects and relations
+    - Could also learn to infer abstract properties of physical systems, such as potential energy
+- Cons
+    - If to handle very large systems with many interactions, then we need to reduce computation through methods like culling interaction computations with negligible effects
+    - Only support binary relation
+        - How to extend it to n-th order relations by combining n senders in each bk.
+        - The interactions could even have variable order, where each bk includes all sender objects that interact with a receiver, but would require a f_R than can handle variable-length inputs.
+    - Take the graph as input
+        - Objects and relations are known
+        - Prepend a perceptual front-end that can infer the graph from raw observations
 
