@@ -13,5 +13,7 @@ E. The abstraction function phi_A
 
 ## Question 2. (Ture or False)
 Interaction Networks are an attributed, directed multigraph because the relations have attributes, and there can be multiple distinct relations between two objects
+
 A. True
+
 B. False
