@@ -23,8 +23,8 @@ For Course Project, each group can firstly create their own github code repo, an
 | 1/29 1:15 - 1:30|4. Rolling a Dice|
 | 1/29 1:30 - 1:45|1. FST|
 | 1/29 1:45 - 2:00|2. TLM|
-| 1/29 3:00 - 3:15|9. No Name|
+| 1/29 3:00 - 3:15||
 | 1/29 3:15 - 3:30||
 | 1/29 3:30 - 3:45|8. NDNX|
-| 1/29 3:45 - 4:00||
+| 1/29 3:45 - 4:00|9. No Name|
 
