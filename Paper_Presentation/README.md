@@ -23,7 +23,7 @@ The schedule for paper presentation is:
   - [1/28] Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu, Interaction Networks for Learning about Objects, Relations and Physics, NIPS 2016. https://arxiv.org/abs/1612.00222 
     - [**(Presentation)**](Dynamic_Graph/Interaction_Networks/) Presenters: **Shuwen Qiu**, **Jiayue Sun (jysun@cs.ucla.edu)**, **Qing Li (dylan.liqing@gmail.com)**
   - [2/2] Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://arxiv.org/abs/2011.03880 (**Guest Lecture**) 
-    - Guest Lecturer: **Zijie Huang**
+    - [**(Presentation)**](Dynamic_Graph/LG-ODE/)Guest Lecturer: **Zijie Huang**
   - [2/4] Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML 2020. https://arxiv.org/abs/2002.09405  
     - Presenters: **Yuanhao Xiong, Xiangning Chen, Li-Cheng Lan**
 
