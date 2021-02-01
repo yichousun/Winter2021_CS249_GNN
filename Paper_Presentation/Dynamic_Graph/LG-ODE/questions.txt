@@ -1,4 +1,4 @@
-1. (Single-Choice) Which part of LG-ODE is the runtime bottleneck for small dynamic systems? (b)
+1. (Single-Choice) Which part of LG-ODE is the runtime bottleneck for small dynamic systems? 
 
 a. Encoder
 b. Generative Model(ODE)
@@ -6,13 +6,13 @@ c. Decoder
 
 
 
-2. (Single-Choice) To construct temporal graph for interpolation task, cross-time edges e_ij must satisfy which of the following condition? (a)
+2. (Single-Choice) To construct temporal graph for interpolation task, cross-time edges e_ij must satisfy which of the following condition?
 
 a. t(i) < t(j)
 b. t(i) > t(j)
 c. t(i) = t(j)
 
-3. (Multiple-Choices) How does LG-ODE overcome the problem of irregularly-sampled partial observations? (a,b)
+3. (Multiple-Choices) How does LG-ODE overcome the problem of irregularly-sampled partial observations?
 
 a. LG-ODE models a continuous latent dynamics by ODEs where observations are utilized as signal supervision in the loss function to adjust the learned trajectories, which can be irregular and not temporarily aligned.
 b. To infer the initial states of latent ODEs, LG-ODE's encoder firstly constructs a temporala graph, and then perform dynamic node representation learning and temporal self-attention utilizing temporal encoding.
