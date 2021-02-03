@@ -5,3 +5,7 @@ b. Implicit Euler
 c. Semi-implicit Euler
 
 
+2. 
+
+
+3. 
