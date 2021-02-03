@@ -1,7 +1,7 @@
 # [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405)
 Authors: Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, ICML 2020.  
-Presenters: **Yuanhao Xiong**, **Xiangning Chen**, **Li-Cheng Lan**
-Codes: (https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)
+Presenters: **Yuanhao Xiong**, **Xiangning Chen**, **Li-Cheng Lan**  
+Codes: (https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)  
 Video site: (https://sites.google.com/corp/view/learning-to-simulate)
 
 ## Introduction
@@ -13,7 +13,7 @@ Realistic simulators of complex physics are invaluable to many scientific and en
 
 
 ## Method
-![GNS framework](framework.pdf)
+![GNS framework](framework.png)
 
 
 ## Experimental Results
