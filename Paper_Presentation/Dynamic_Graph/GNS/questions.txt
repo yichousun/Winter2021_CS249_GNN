@@ -5,14 +5,14 @@ b. Implicit Euler
 c. Semi-implicit Euler
 
 
-2. (Multiple-Choices) What does the input vector of each particle contains: (abc)
+2. (Multiple-Choices) What does the input vector of each particle contains:
 
 a. Material property
 b. External force of the system
 c. Position
 
 
-3. (Single-Choice) Which of the following statements about hyperparameter settings in GNS is correct? (d)
+3. (Single-Choice) Which of the following statements about hyperparameter settings in GNS is correct?
 
 a. Since a larger number of message-passing steps M can yield improved performance, M is suggested to be set as large as possible.
 b. Models with shared GN parameters achieve better accuracy than models with unshared parameters.
