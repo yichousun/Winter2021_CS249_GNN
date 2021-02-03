@@ -1,16 +1,21 @@
-1. (Single-Choice) The update mechanism in GNS adopts which of the following methods to obtain the prediction? 
+1. (Single-Choice) The update mechanism in GNS adopts which of the following methods to obtain the prediction?
 
 a. Explicit Euler
 b. Implicit Euler
 c. Semi-implicit Euler
 
 
-2. 
+2. (Multiple-Choices) What does the input vector of each particle contains: (abc)
+
+a. Material property
+b. External force of the system
+c. Position
 
 
-3. (Multiple-Choices) Which of the following statements about hyperparameter settings in GNS are correct?
+3. (Single-Choice) Which of the following statements about hyperparameter settings in GNS is correct? (d)
 
 a. Since a larger number of message-passing steps M can yield improved performance, M is suggested to be set as large as possible.
 b. Models with shared GN parameters achieve better accuracy than models with unshared parameters.
-c. The relative encoder is better than the absolute version due to the spatial invariance. 
+c. The relative encoder is worse than the absolute version due to the spatial invariance. 
 d. Changing the connectivity radius R has similar effects of modifying the number of message-passing steps M.
+

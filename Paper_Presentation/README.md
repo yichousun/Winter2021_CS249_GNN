@@ -25,7 +25,7 @@ The schedule for paper presentation is:
   - [2/2] Zijie Huang, Yizhou Sun, Wei Wang, Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020. https://arxiv.org/abs/2011.03880 (**Guest Lecture**) 
     - [**(Presentation)**](Dynamic_Graph/LG-ODE/)Guest Lecturer: **Zijie Huang**
   - [2/4] Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia, Learning to Simulate Complex Physics with Graph Networks, ICML 2020. https://arxiv.org/abs/2002.09405  
-    - Presenters: **Yuanhao Xiong, Xiangning Chen, Li-Cheng Lan**
+    - [**(Presentation)**](Dynamic_Graph/GNS/) Presenters: **Yuanhao Xiong, Xiangning Chen, Li-Cheng Lan**
 
 - GNNs and Programming Language (2 lectures)
   - [2/9] Elizabeth Dinella, Hanjun Dai, Ziyang Li, Mayur Naik, Le Song, Ke Wang, Hoppity: Learning Graph Transformations to Detect and Fix Bugs In Programs, ICLR 2020. https://openreview.net/forum?id=SJeqs6EFvB
