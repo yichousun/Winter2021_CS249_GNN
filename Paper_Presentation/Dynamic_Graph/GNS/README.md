@@ -9,7 +9,7 @@ Realistic simulators of complex physics are invaluable to many scientific and en
 
 
 ## Related works
-
+This paper focus on particle-based simulation, where states are represented as a set of particles that encode mass, material, movement, etc. within local regions of space. Dynamics are computed on the basis of particles’ interactions within their local neighborhoods. Besides, recently graph networks have proven effective at learning forward dynamics in various settings that involve interactions between many entities. For example, interaction networks. And there are two baseline methods mentioned in this paper, DPI and CConv. They are both designed for specific settings and authors made a comparison in the experiments.
 
 
 ## Method
@@ -17,11 +17,7 @@ Realistic simulators of complex physics are invaluable to many scientific and en
 
 
 ## Experimental Results
-The experiments are conducted on three domains: n-body problem, balls bouncing in a box and n-mass string. And IN is evaluated on two prediction tasks: 1) predict velocity at the next time step, 2) estimate potential energy at the current time step. And it is compared with three other models: 1) constant velocity model that outputs the input velocity, 2) baseline MLP model that takes the flattened input data, 3) dynamics-only IN that eliminates the relation model.
 
-As for the next-step velocity prediction task, IN showcases orders of lower MSE test error compared to other baseline models. And it also generalizes well to systems with fewer and greater number of objects. The model trained on systems with larger number of objects also perform better than models trained on less complex system.
-
-As for the abstract value estimation task (potential energy), IN is also much accurate in potential energy prediction than all other baselines. It presumably learns the gravitational and spring potential energy functions, applies them to the relations ihe domain, and combines the energy estimation results.
 
 
 ## Major Conclusions
