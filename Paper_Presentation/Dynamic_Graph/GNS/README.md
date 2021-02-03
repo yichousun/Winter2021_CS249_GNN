@@ -20,24 +20,19 @@ This paper focus on particle-based simulation, where states are represented as a
 
 
 
-## Major Conclusions
-- IN shows strong ability to learn accurate physical simulations and can automatically generalize their training to novel contexts.
-- It can roll out thousands of realistic future state predictions, even when trained only on single-step predictions.
-- IN present the first general-purpose learnable physics engine that can scale up to real-world problems.
-- IN provides a powerful general framework for reasoning about object and relations in complex real-world domains.
+## Conclusion
+- A powerful machine learning framework GNS is presented, based on particle-based representations of physics and learned message-passing on graphs
+- With a simple architecture, GNS can learn to simulate dynamics of complex physics with tens of thousands of particles over thousands time steps.
+- GNS is more accurate, and has better generalization than previous approaches
 
 
 ## Pros and Cons
 - Pros
-    - First general-purpose physical engine
-    - Generalize their training to novel systems with different numbers and configurations of objects and relations
-    - Could also learn to infer abstract properties of physical systems, such as potential energy
+    - Simple but powerful, good generalization
+    - Robust to hyperparameter choicesacross various evaluation metrics
 - Cons
-    - If to handle very large systems with many interactions, then we need to reduce computation through methods like culling interaction computations with negligible effects
-    - Only support binary relation
-        - How to extend it to n-th order relations by combining n senders in each bk.
-        - The interactions could even have variable order, where each bk includes all sender objects that interact with a receiver, but would require a f_R than can handle variable-length inputs.
-    - Take the graph as input
-        - Objects and relations are known
-        - Prepend a perceptual front-end that can infer the graph from raw observations
+    - GNS is particle-based and it is not clear how to extend it to data represented by other forms
+    - Using only basic physical knowledge about position, velocity, and acceleration
+    - Training with only one-step loss function, no guarantee for good performance in the long term
+    - Computationally inefficient
 
