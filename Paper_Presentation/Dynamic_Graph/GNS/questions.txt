@@ -1,0 +1,7 @@
+1. (Single-Choice) The update mechanism in GNS adopts which of the following methods to obtain the prediction? 
+
+a. Explicit Euler
+b. Implicit Euler
+c. Semi-implicit Euler
+
+
