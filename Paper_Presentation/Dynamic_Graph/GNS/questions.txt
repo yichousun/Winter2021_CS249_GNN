@@ -8,4 +8,9 @@ c. Semi-implicit Euler
 2. 
 
 
-3. 
+3. (Multiple-Choices) Which of the following statements about hyperparameter settings in GNS are correct?
+
+a. Since a larger number of message-passing steps M can yield improved performance, M is suggested to be set as large as possible.
+b. Models with shared GN parameters achieve better accuracy than models with unshared parameters.
+c. The relative encoder is better than the absolute version due to the spatial invariance. 
+d. Changing the connectivity radius R has similar effects of modifying the number of message-passing steps M.
