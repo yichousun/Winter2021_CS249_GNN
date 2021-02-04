@@ -20,6 +20,26 @@ This paper focus on particle-based simulation, where states are represented as a
 
 
 ## Experimental Results
+- Physical Domains for Experiments
+    - BOXBATH
+        - ![](https://i.imgur.com/CTi29rY.png)
+    - WATER-3D
+        - ![](https://i.imgur.com/oGYLQ9O.png)
+    - WATER
+        - ![](https://i.imgur.com/XMGna9a.png)
+- Simulating Complex Materials
+    - Edge length of the container = 1.0
+    - Metric: particle-wise MSE
+    - Train one only 1-step
+![](https://i.imgur.com/VUeZ92W.png)
+- Multiple Interacting Materials
+    - ![](https://i.imgur.com/umJI53r.png)
+
+- Analyzation
+    - ![](https://i.imgur.com/GawLOu1.png)
+
+- Compare to CConv
+    - ![](https://i.imgur.com/gHmRWXC.png)
 
 
 
