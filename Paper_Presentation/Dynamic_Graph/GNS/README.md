@@ -14,6 +14,9 @@ This paper focus on particle-based simulation, where states are represented as a
 
 ## Method
 ![GNS framework](framework.png)
+- Encoder: embeds the raw state representations as a latent graph
+- Processor: message passing within the graph
+- Decoder: extract the required dynamics information
 
 
 ## Experimental Results
