@@ -14,7 +14,7 @@ A. True
 
 B. False
 
-## Question 3. (single-option):
+## Question 3. (single-choice)
 Which of the following statements is true about HOPPITY?
 
 A. The underlying assumption of HOPPITY is that any code snippet that deviates from common code patterns is likely to be buggy.
