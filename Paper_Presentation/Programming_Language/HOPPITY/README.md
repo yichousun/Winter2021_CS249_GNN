@@ -37,7 +37,13 @@ For data-driven technique, it learns to detect abnormal code from a large code c
 ## Experimental Results
 
 
+#### Data Collection
+Authors automatically collected data from Github using heuristics: a commit with a smaller number of AST differences is more likely to be a bug fix.
 
+#### Results
+The authors first use a random baseline to show that the entire search space is large and Hoppity effectively outperforms it.
+
+Compared to previous works, the model has an advantage in most cases. Especially, compared to seq2seq methods (i.e. treating bug fixing as a translation task), Hoppity holds a large advantage. In addition, previous methods require the bug location as input while Hoppity can identify the bug and perform fix in the same time.
 
 
 ## Major Conclusion (Pros) and Future Work (Cons)
