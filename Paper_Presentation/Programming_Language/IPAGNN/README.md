@@ -1,4 +1,11 @@
 # Introduction
+Static analysis methods underpin thousands of programming tools from compilers and debuggers to IDE extensions, offering productivity boosts to software engineers at every stage of development such as code completion, bug finding, and program repair.
+
+Graph neural networks (GNNs) is a powerful tool for learning software engineering tasks including code completion, bug finding, and program repair. They benefit from leveraging program structure like control flow graphs, but they are not well-suited to tasks like program execution that require far more sequential reasoning steps than number of GNN propagation steps. 
+
+Recurrent neural networks (RNNs), on the other hand, are well-suited to long sequential chains of reasoning, but they do not naturally incorporate program structure and generally perform worse on the above tasks. 
+
+The aim of this paper is to achieve the best of both worlds by introducing a novel GNN architecture, the Instruction Pointer Attention Graph Neural Network (IPA-GNN). 
 
 # Approach
 
