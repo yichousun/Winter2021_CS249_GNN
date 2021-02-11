@@ -28,7 +28,7 @@ Experiment results:
 The following graphs show the experiemtn results for different model.
 ![model](images/graph.png)
 
-Both two graphs show that the IPA-GNN model outperforms all baselines. Here, we ignore the Trace RNN model since it require access to a trace oracle. 
+Both two graphs show that the IPA-GNN model outperforms all baselines. Here, we ignore the Trace RNN model since it require access to a trace oracle.
 
 # Pros and Cons
 
