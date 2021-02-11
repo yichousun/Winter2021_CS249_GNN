@@ -12,6 +12,15 @@ The IPAGNN is closely related to graph neural networks, especially the Gated Gra
 
 ![comparison](images/comparison.png)
 
+# Experiment
+
+Data Generation:
+
+Training models:
+
+Experiment results:
+
+
 # Pros and Cons
 
 ### Pros
