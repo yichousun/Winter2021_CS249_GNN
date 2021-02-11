@@ -25,10 +25,10 @@ Training models:
 For both full programs and partial programs, this paper evaluates the IPA-GNN model against other baseline models, such as Line-by-Line RNN, R-GAT, No-Control model , NoExecute model , and GGNN model. For the Trace RNN, it requires access to a trace oracle and we only implement it on full program tasks. For each model, this paper use adam optimizer with standard cross-entropy loss, train with different parameter (Hidden layer : 200,300; Learning rate: 0.003, 0.001, 0.0003, 0.0001) and choose the best model parameters by cross-validation.
 
 Experiment results:
-
-The following graphs shows the experiemtn results for different model.
-![model](images/table.png)
+The following graphs show the experiemtn results for different model.
 ![model](images/graph.png)
+
+Both two graphs show that the IPA-GNN model outperforms all baselines. Here, we ignore the Trace RNN model since it require access to a trace oracle. 
 
 # Pros and Cons
 
