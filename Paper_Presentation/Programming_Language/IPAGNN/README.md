@@ -26,6 +26,9 @@ For both full programs and partial programs, this paper evaluates the IPA-GNN mo
 
 Experiment results:
 
+The following graphs shows the experiemtn results for different model.
+![model](images/table.png)
+![model](images/graph.png)
 
 # Pros and Cons
 
