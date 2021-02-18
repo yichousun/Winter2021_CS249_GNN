@@ -14,6 +14,25 @@ Finding new chemical compounds with desired properties is a challenging task in 
 Objective-Reinforced Generative Adversarial Networks (ORGAN) is the closest comparison to this paper. They utilize SeqGan to learn output sequences. Where they differ is that they use SMILES as opposed to graphs for molecular representations. In their reinforcement learning, they also use REINFORCE for optimzation while this paper uses DDPG. Many works have adopted a similar approach of using a SMILES representation along with a variational auto encoder. These methods often limit the decoding process to follow semantic rules. In addition, they become prohibitively expensive when we consider the fact that we want to be invariant to node ordering.  
 
 ## Solution
+
 ## Experimental results
+
+
+
+
 ## Conclusions
+
+
+
 ## Pros and cons
+
+Pros:
+* Very high (~100%) valid output structure ratio
+* GraphNN + RL is effective for biochemical optimization 
+* Light computational cost, fast learning
+
+Cons:
+* Mode collapse - same structure is repeatedly generated
+  * Normalization techniques (e.g. spectral normalization) could help
+* Fixed atom count
+
