@@ -17,12 +17,26 @@ Objective-Reinforced Generative Adversarial Networks (ORGAN) is the closest comp
 
 ## Experimental results
 
+MolGAN is evaluated on the QM9 Dataset of 133,885 organic compounds composed entirely of carbon (C), hydrogen (H), oxygen (O), nitrogen (N), and fluorine (F) atoms. Each compound has at most 9 heavy atoms (CONF). The method evaluation metrics used are: 
+* Validity = Valid structures / All generated structures 
+* Novelty = Valid structures not in training dataset / All valid generated structures 
+* Uniqueness = Unique valid structures / Total valid structures
 
+The generated molecules are further evaluated on their: 
+* Druglikeness = How likely a compound is to be a drug
+* Synthesizability = How easy is a molecule to synthesize 
+* Solubility = The degree to which a molecule is hydrophilic
+
+**Experiment 1:** Experiment 1 explores the effects of varying the lambda hyperparameter which controls the trade-off between the WGAN and RL objectives in the combined generator loss function. It is found that the optimal value for lambda is 0 and only the reward loss is necessary. The intuition for this result is that valid molecules are implicitly optimized by the RL loss since invalid molecules receive zero reward during training. Therefore, if the RL loss component is strong, the generator is optimized to generate mostly valid molecular graphs. 
+
+**Experiment 2:** Experiment 2 compares MolGAN to ORGAN, the closest related work to MolGAN. While MolGAN performs worse in the uniqueness metric with a value around 2%, indicating that it is susceptible to mode collapse, MolGAN outperforms ORGAN in validity and time consumption. The higher validity score stems from the indirect optimization from the GAN loss, while the computational efficiency is due to one-shot approach to molecular generation taken by MolGAN as opposed to the sequential approach taken by ORGAN.
+
+**Experiment 3:** Experiment 3 compres MolGAN to variational autoencoding methods such as CharacterVAE, GrammarVAE, and GraphVAE. While the other models perform better in the uniqueness metric once again, MolGAN outperforms all by achieving high validity and novelty scores which none of the other methods accomplish. 
 
 
 ## Conclusions
 
-
+This paper presents MolGAN, an implicit generative model for small molecular graphs. The model is able to outperfrom variational autoencoding methods by acheiving high validity and novelty scores while not requiring a permutation-dependent likelihood function and is superior to the recent SOTA sequential model, ORGAN, in achieving higher chemical property scores as well as having a ~5x computational speedup.  
 
 ## Pros and cons
 
