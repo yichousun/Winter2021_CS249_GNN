@@ -1,6 +1,6 @@
 1. (T OR F) When MolGAN outputs a non-valid molecule, it is still possible to assign a reward. 
 
-2. (Single Answer) What metrics does MolGAN directly or indirectly optimize? 
+2. (Single Answer) What metric does MolGAN directly or indirectly optimize? 
 
    a) Validity
    b) Novelty
