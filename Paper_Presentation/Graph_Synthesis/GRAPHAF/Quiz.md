@@ -4,15 +4,15 @@ True
 
 False
 
-SC: Why is GRAPHAF training efficient?
+SC: Why is GraphAF training efficient?
 
 a) The Jacobian of the inverse of normalizing flow is sparse
 
-b) GRAPHAF utilizes transformers for graph generation which is more parallelizable than RNNs
+b) GraphAF utilizes transformers for graph generation which is more parallelizable than RNNs
 
 c) Iterations of the graph generation can be trained independently because masking satisfies the autoregressive property
 
-SC: How does GRAPHAF handle valency constraints in the generation process?
+SC: How does GraphAF handle valency constraints in the generation process?
 
 a) Use the constraint as a term in the loss function and optimize using gradient descent
 
