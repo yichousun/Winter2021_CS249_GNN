@@ -29,3 +29,8 @@ Since the graph generation procedure is formulated in a sequential manner, reinf
 The GRAPHAF framework combines the advantages of the three techniques above in the following way. The autoregressive property to converts the graph generation problem into a sequential generation process. At each step in the process, normalizing flows are used to model a latent distribution that can be sampled and converted into an addition on the graph. The sequential process also has the advantage of allowing for validity checks to occur after every sample. This whole process is optimized by a Graph Convolutional Policy Network so that the selected samples maximizes a desired property of the resulting graph.
 
 # Experiments
+
+Evaluation Tasks. We conduct experiments by comparing with the state-of-the-art approaches on three standard tasks. 
+Density Modeling and Generation evaluates the model’s capacity to learn the data distribution and generate realistic and diverse molecules. 
+Property Optimization concentrates on generating novel molecules with optimized chemical properties. 
+Constrained Property Optimization aims at modifying the given molecule to improve desired properties while satisfying a similarity constraint.
