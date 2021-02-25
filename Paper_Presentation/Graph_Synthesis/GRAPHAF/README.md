@@ -24,13 +24,20 @@ Autoregressive models are models where the output at a certain step is only a fu
 
 ## Reinforcment Learning
 
-Since the graph generation procedure is formulated in a sequential manner, reinforcment learning can be leveraged to select the best addition to make to the graph at each time step. Therefore, the incorporation of a Graph Convolutional Policy Network means that the generation procedure makes additions that ultimately optimize the for a desired property.
+Since the graph generation procedure is formulated in a sequential manner, reinforcment learning can be leveraged to select the best addition to make to the graph at each time step. Therefore, the incorporation of a Graph Convolutional Policy Network means that the generation procedure makes additions that ultimately optimize the for a desired property. 
 
 The GRAPHAF framework combines the advantages of the three techniques above in the following way. The autoregressive property to converts the graph generation problem into a sequential generation process. At each step in the process, normalizing flows are used to model a latent distribution that can be sampled and converted into an addition on the graph. The sequential process also has the advantage of allowing for validity checks to occur after every sample. This whole process is optimized by a Graph Convolutional Policy Network so that the selected samples maximizes a desired property of the resulting graph.
 
 # Experiments
 
+Network structure:
+The R-GCN is implemented with 3 layers, and the embedding dimension is set as 128. The max graph size is set as 48 empirically. For density modeling, we train our model for 10 epochs with a batch size of 32 and a learning rate of 0.001. For property optimization, we perform a grid search on the hyperparameters and select the best setting according to the chemical scoring performance. We use Adam to optimize our model.
+
 Evaluation Tasks. We conduct experiments by comparing with the state-of-the-art approaches on three standard tasks. 
 Density Modeling and Generation evaluates the model’s capacity to learn the data distribution and generate realistic and diverse molecules. 
 Property Optimization concentrates on generating novel molecules with optimized chemical properties. 
 Constrained Property Optimization aims at modifying the given molecule to improve desired properties while satisfying a similarity constraint.
+
+Link to a Google colab script that runs the results:
+https://colab.research.google.com/drive/1Ud_37N0yTMLaYhaax-Om-2HOnKNDlwnl?usp=sharing
+
