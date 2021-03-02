@@ -1,5 +1,19 @@
 # How Powerful are Graph Neural Networks?
 
+## Motivation
+
+The design of new GNNs is mostly based on empirical intuition, heuristics, and experimental trial-anderror. There is little theoretical understanding of the properties and limitations of GNNs, and formal analysis of GNNs’ representational capacity is limited.
+
+## Contributions and Results
+* GNNs are at most as powerful as the WL test in distinguishing graph structures.
+* Established conditions on the neighbor aggregation and graph pooling functions under which the resulting GNN is as powerful as the WL test.
+* Identified graph structures that cannot be distinguished by popular GNN variants, such as GCN and GraphSAGE and characterized the kinds of graph structures such GNN-based models can capture. 
+* Developed a simple neural architecture, Graph Isomorphism Network (GIN) and showed that its discriminative/representational power is equal to the power of the WL test.
+
+## Preliminaries
+
+
+
 ## Experimental Results
 
 **Dataset**
