@@ -3,7 +3,9 @@
 Graph Isomorphism Network (GIN):
 
 A. is provably as powerful as the Weisfeiler-Lehman test.
+
 B. is the most expressive among the class of GNNs.
+
 C. uses 1-layer perceptrons for the neighbor aggregation. 
 
 ## Question 2. (Ture/False)
