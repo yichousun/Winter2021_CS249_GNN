@@ -5,10 +5,10 @@
 The design of new GNNs is mostly based on empirical intuition, heuristics, and experimental trial-and-error. There is little theoretical understanding of the properties and limitations of GNNs, and formal analysis of GNNs’ representational capacity is limited.
 
 ## Contributions and Results
-* GNNs are at most as powerful as the WL test in distinguishing graph structures.
-* Established conditions on the neighbor aggregation and graph pooling functions under which the resulting GNN is as powerful as the WL test.
+* GNNs are __at most__ as powerful as the WL test in distinguishing graph structures.
+* Established conditions on the neighbor aggregation and graph pooling functions under which the resulting GNN is __as powerful__ as the WL test.
 * Identified graph structures that cannot be distinguished by popular GNN variants, such as GCN and GraphSAGE and characterized the kinds of graph structures such GNN-based models can capture. 
-* Developed a simple neural architecture, Graph Isomorphism Network (GIN) and showed that its discriminative/representational power is equal to the power of the WL test.
+* Developed a simple neural architecture, **Graph Isomorphism Network (GIN)** and showed that its discriminative/representational power is equal to the power of the WL test.
 
 ## Preliminaries
 
@@ -31,7 +31,9 @@ aggregation scheme must be injective.
 
 ## Maximum Representational Capacity of GNN-based Models
 
-Any aggregation-based GNN is at most as powerful as the WL test in distinguishing different graphs. If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is as powerful as the WL test.
+Any aggregation-based GNN is __at most__ as powerful as the WL test in distinguishing different graphs. 
+
+If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is __as powerful as__ the WL test.
 
 ## Experimental Results
 
