@@ -26,8 +26,8 @@ Based on the WL test, Shervashidze et al. (2011) proposed the **WL subtree kerne
 
 ## An Overview
 
-Feature vectors of a set of neighboring nodes form a multiset: the same element can appear multiple times since different nodes can have identical feature vectors. A maximally powerful GNN would never map two different neighborhoods, i.e., multisets of feature vectors, to the same representation. This means its
-aggregation scheme must be injective. 
+Feature vectors of a set of neighboring nodes form a **multiset**: the same element can appear multiple times since different nodes can have identical feature vectors. A maximally powerful GNN would never map two different neighborhoods, i.e., multisets of feature vectors, to the same representation. This means its
+aggregation scheme must be **injective**. 
 
 ## Maximum Representational Capacity of GNN-based Models
 
