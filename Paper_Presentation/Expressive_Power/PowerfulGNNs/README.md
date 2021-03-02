@@ -33,7 +33,7 @@ aggregation scheme must be **injective**.
 
 Any aggregation-based GNN is __at most__ as powerful as the WL test in distinguishing different graphs. 
 
-If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is __as powerful as__ the WL test.
+If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is __as powerful as__ the WL test. The conditions for a maximal powerful GNN is then stated as ![Theorem 3](fig/Theorem3.png)
 
 ## Experimental Results
 
