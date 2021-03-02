@@ -10,7 +10,7 @@ C. uses 1-layer perceptrons for the neighbor aggregation.
 
 ## Question 2. (Ture/False)
 
-The paper considers only the case where the input node features are from a countable set
+The paper considers only the case where the input node feature vectors are from a countable set
 
 
 ## Question 3. (Ture/False)
