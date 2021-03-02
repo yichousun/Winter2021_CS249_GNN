@@ -107,3 +107,13 @@ The better accuracy on test set reflects better generalization capacity and demo
 
 ## Pros and Cons
 
+Pros
+* Developed theoretical foundations for reasoning about the expressive power of GNNs
+* Designed provably maximally powerful GNN under neighborhood aggregation framework
+
+Cons
+* Beyond neighborhood aggregation framework?
+* Discriminative power is not the only thing about representation power, most applications are not doing graph isomorphism tests
+
+Not sure
+* The main assumption is the input node features are from a countable universe. But do real-world graph classification applications’ input node features come from a countable universe?
