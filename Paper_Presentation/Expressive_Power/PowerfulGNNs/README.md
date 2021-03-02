@@ -12,7 +12,26 @@ The design of new GNNs is mostly based on empirical intuition, heuristics, and e
 
 ## Preliminaries
 
+### Graph Neural Networks
 
+Modern GNNs follow a neighborhood aggregation strategy, where we iteratively update the representation of a node by aggregating representations of its neighbors. After k iterations of aggregation, a node’s representation captures the structural information within its k-hop network neighborhood.
+
+### Weisfeiler-Lehman (WL) test and WL Subtree Kernel
+
+The graph isomorphism problem asks whether two graphs are topologically identical. 
+
+Apart from some corner cases, the **Weisfeiler-Lehman (WL) test of graph isomorphism** (Weisfeiler & Lehman, 1968) is an effective and computationally efficient test that distinguishes a broad class of graphs. Its 1-dimensional form, “naïve vertex refinement”, is analogous to neighbor aggregation in GNNs. The WL test iteratively (1) aggregates the labels of nodes and their neighborhoods, and (2) hashes the aggregated labels into unique new labels. The algorithm decides that two graphs are non-isomorphic if at some iteration the labels of the nodes between the two graphs differ.
+
+Based on the WL test, Shervashidze et al. (2011) proposed the **WL subtree kernel** that measures the similarity between graphs. The kernel uses the counts of node labels at different iterations of the WL test as the feature vector of a graph. Intuitively, a node’s label at the k-th iteration of WL test represents a subtree structure of height k rooted at the node. Thus, the graph features considered by the WL subtree kernel are essentially counts of different rooted subtrees in the graph.
+
+## An Overview
+
+Feature vectors of a set of neighboring nodes form a multiset: the same element can appear multiple times since different nodes can have identical feature vectors. A maximally powerful GNN would never map two different neighborhoods, i.e., multisets of feature vectors, to the same representation. This means its
+aggregation scheme must be injective. 
+
+## Maximum Representational Capacity of GNN-based Models
+
+Any aggregation-based GNN is at most as powerful as the WL test in distinguishing different graphs. If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is as powerful as the WL test.
 
 ## Experimental Results
 
