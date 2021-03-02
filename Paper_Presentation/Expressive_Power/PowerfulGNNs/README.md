@@ -49,7 +49,7 @@ And the injectiveness of the sum aggregator and the combine function is proven w
 
 For graph classification, the additional structure for GIN is demonstrated as:
 
-![GIN with graph classification](fig/GIN_Graph_Classification.png)
+![GIN with graph classification](fig/GIN_graph_classification.png)
 
 * CONCAT: to consider all structural information, we use information from all depths/iterations of the model.
 * READOUT: by Theorem 3 and Corollary 6, GIN can replace READOUT with summing all node features from the same iterations.
