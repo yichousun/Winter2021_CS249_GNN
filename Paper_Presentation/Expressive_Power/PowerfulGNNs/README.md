@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The design of new GNNs is mostly based on empirical intuition, heuristics, and experimental trial-anderror. There is little theoretical understanding of the properties and limitations of GNNs, and formal analysis of GNNs’ representational capacity is limited.
+The design of new GNNs is mostly based on empirical intuition, heuristics, and experimental trial-and-error. There is little theoretical understanding of the properties and limitations of GNNs, and formal analysis of GNNs’ representational capacity is limited.
 
 ## Contributions and Results
 * GNNs are at most as powerful as the WL test in distinguishing graph structures.
