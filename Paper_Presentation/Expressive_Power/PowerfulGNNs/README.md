@@ -33,7 +33,45 @@ aggregation scheme must be **injective**.
 
 Any aggregation-based GNN is __at most__ as powerful as the WL test in distinguishing different graphs. 
 
-If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is __as powerful as__ the WL test. The conditions for a maximal powerful GNN is then stated as ![Theorem 3](fig/Theorem3.png)
+If the neighbor aggregation and graph-level readout functions are injective, then the resulting GNN is __as powerful as__ the WL test. The conditions for a maximal powerful GNN is then stated as 
+
+![Theorem 3](fig/Theorem3.png)
+
+To satisfy the conditions, the authors propose a simple architecture called GraphI somorphism Network (GIN) and considers countable node feature space only. Uncountable sets, where node features are continuous, need some further considerations and are left for future work.
+
+### GraphI somorphism Network (GIN)
+
+The scheme for GIN is demonstated as:
+
+![GIN updates node representation with the above scheme](fig/GIN.png)
+
+And the injectiveness of the sum aggregator and the combine function is proven with Lemma 5 and Corollary 6 (see more on the slides and paper appendix).
+
+For graph classification, the additional structure for GIN is demonstrated as:
+
+![GIN with graph classification](fig/GIN_Graph_Classification.png)
+
+* CONCAT: to consider all structural information, we use information from all depths/iterations of the model.
+* READOUT: by Theorem 3 and Corollary 6, GIN can replace READOUT with summing all node features from the same iterations.
+
+## Ablation Studies
+
+### 1-Layer perceptrons are not sufficient
+
+Instead of MLPs, 1-layer perceptrons can behave much like linear mappings, so the GNN layers degenerate into simply summing over neighborhood features. Therefore, there could exist input multisets that are different but sum to the same value, and would result in the same output for any 1-layer perceptron. Note that with the bias term and sufficiently large output dimensionality, 1-layer perceptrons might be able to distinguish different multisets. However, it is still not a universal approximator of multiset functions.
+
+### Structures that confuse mean and max-pooling
+
+The ranking by expressive power of mean and max-pooling as compared to sum is shown below. We note that mean and max-pooling are not injective aggregators for multisets, and are therefore less expressive than sum.
+
+![Ranking by expressive power of sum, mean and max-pooling](fig/Figure_2.png)
+
+And the structures that would confuse mean or max-pooling is shown below, where same color refers to the same node.
+
+![Examples of graph structures confuse mean and max-pooling](fig/Figure_3.png)
+
+Basically, mean learns the distribution/proportion of the multiset and fails to distinguish multisets that are of the same proportions but different sizes. Max-pooling leans the sets with distinct elements and fails to distinguish multisets that have the same set of unique nodes but different number of them.
+
 
 ## Experimental Results
 
