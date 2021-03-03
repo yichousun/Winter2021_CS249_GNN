@@ -1,4 +1,4 @@
-# Provably Powerful Graph Networks?
+# Provably Powerful Graph Networks
 
 ## Background and Motivation
 
