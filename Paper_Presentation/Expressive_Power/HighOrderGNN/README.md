@@ -2,7 +2,7 @@
 
 ## Background and Motivation
 
-Popular message passing GNN cannot distinguish between graphs that cannot be distinguished by the 1-WL test, while many simple graphs are indistinguishable by the 1-WL test. Therefore, it demands to develop more powerful graph networks that can provably enjoy higher expressiveness. Recently, it has the shown that the k-order invariant and equivariant graph neural networks can be possibly more powerful than messagge passing GNNs. Based on this idea, this paper construct a new GNN model that provably achieves the same expressiveness as the 3-WL test.
+Popular message passing GNN cannot distinguish between graphs that cannot be distinguished by the 1-WL test, while many simple graphs are indistinguishable by the 1-WL test. Therefore, it demands to develop more powerful graph networks that can provably enjoy higher expressive power. Recently, it has the shown that the k-order invariant and equivariant graph neural networks can be possibly more powerful than messagge passing GNNs. Based on this idea, this paper construct a new GNN model that provably achieves the same expressiveness as the 3-WL test.
 
 ## Preliminaries
 
@@ -37,6 +37,10 @@ In this paper colors are represented as vectors, and as such encoding can be don
 ### Pros
 * Very interesting theory about how to extend the expressivness of a GCN. Most other works seem focused on 1-WL tests.
 
+* The developed GNN model is simple (compared with other GNN models with k-WL guarantees for k>2) and performs better than existing GNN models.
+
 ### Cons
+* In practice the constructed GNN model does not follow the theory that the dimension of the output embedding vector is extremely high. Therefore, it is not clear whether the proposed GNN model can be more powerful than 3-WL test empirically.
+
 * Very mathematically dense paper. Sometimes authors make jumps in logic that aren't very clear.
 
