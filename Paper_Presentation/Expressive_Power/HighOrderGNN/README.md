@@ -19,6 +19,10 @@ not by k-W</li>
 
 As these tests get more powerful as k increases, it is advantageous to construct networks that can be expressive as the k-WL test for some arbitrary k. The k-FWL test is included in this work as it allows us to get 3-WL expressivness with a lower computational complexity.
 
+### The Graph Network
+
+In order to get expressive power of a k-WL graph, this paper constructs its networks to operate according to the rules of the k-WL test. This allows for the network to discriminate between graphs that the k-WL text can. However, we also want the property that isomorphic graphs will always produce the same output. In order to accomplish this, the network is constructed out of layers that are either equivariant or invariant with respect to the permutation group. This allows for the network to be invariant as a whole to the permutation group, which means that any graphs that are isomorphic to eachother will produce the same result from any network.
+
 ## Contributions and Results
 * This paper proves that there exists a k-order GNN that can be as powerful as the k-WL test.
 * This paper builds a provably stronger, simple and scalable model which has a provable 3-WL expressive power.
