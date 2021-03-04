@@ -17,7 +17,7 @@ A. The output of k-order graph networks is invariant to the permutation on verti
 
 B. The equivariant linear layers are designed using power-sum symmetric polynomials.
 
-C. The dimension of the output color representation of each vertices is linear in the number of vertices (n).
+C. The dimension of the output color representation of each vertex is linear in the number of vertices (n).
 
 ## Question 3. (Ture/False)
 
