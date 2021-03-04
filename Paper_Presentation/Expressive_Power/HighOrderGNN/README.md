@@ -23,9 +23,20 @@ As these tests get more powerful as k increases, it is advantageous to construct
 
 In order to get expressive power of a k-WL graph, this paper constructs its networks to operate according to the rules of the k-WL test. This allows for the network to discriminate between graphs that the k-WL text can. However, we also want the property that isomorphic graphs will always produce the same output. In order to accomplish this, the network is constructed out of layers that are either equivariant or invariant with respect to the permutation group. This allows for the network to be invariant as a whole to the permutation group, which means that any graphs that are isomorphic to eachother will produce the same result from any network.
 
+### Color Representation
+
+In this paper colors are represented as vectors, and as such encoding can be done by concatenation. The difficult part is how we represent the colors of multisets generated during the k-WL updates, which maintaining an equivariant layer. To do this, they use Power-Sum Multi-symmetric Polynomials. This polynomial has certain properties that make it an unique representation of a multiset but still allow it to be equivariant to the permutation group. As a result this allows for an equivariant layer that follows the k-WL algorithm rules.
+
 ## Contributions and Results
 * This paper proves that there exists a k-order GNN that can be as powerful as the k-WL test.
 * This paper builds a provably stronger, simple and scalable model which has a provable 3-WL expressive power.
 * In experiments, the proposed GNN model has achieved the state-of-the-art performance on popular graph classification and regression tasks.
 
+## Pros and Cons
+
+### Pros
+* Very interesting theory about how to extend the expressivness of a GCN. Most other works seem focused on 1-WL tests.
+
+### Cons
+* Very mathematically dense paper. Sometimes authors make jumps in logic that aren't very clear.
 
