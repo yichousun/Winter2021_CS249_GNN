@@ -48,7 +48,7 @@ The schedule for paper presentation is:
   - [3/2] (GNN and WL) Keyulu Xu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. How powerful are graph neural networks?  ICLR 2019.  
       - [**(Presentation)**](Expressive_Power/PowerfulGNNs/) Presenters: **Yu Yang (yuyang@cs.ucla.edu)**, **Yihe Deng (yihedeng@g.ucla.edu)**, **Mingyu Derek Ma (ma@cs.ucla.edu)**
   - [3/4] (High-Order GNNs) Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman, Provably Powerful Graph Networks, NeurIPS, 2019. https://arxiv.org/abs/1905.11136
-    - Presenters: **Difan Zou**, **Lucas Tecot** (lucastecot@gmail.edu), **Weitong Zhang(weightzero@g.ucla.edu)**
+    - [**(Presentation)**](Expressive_Power/HighOrderGNN) Presenters: **Difan Zou**, **Lucas Tecot** (lucastecot@gmail.edu), **Weitong Zhang(weightzero@g.ucla.edu)**
   - (Optional Reading) Ryoma Sato, Makoto Yamada, and Hisashi Kashima.  Random features strengthen graph neural networks. arXiv preprint, 2020.
   - (Optional Reading) Can Graph Neural Networks Count Substructures. NeurIPS 2020.
   - (Optional Reading) Ryoma Sato, A Survey on The Expressive Power of Graph Neural Networks. https://arxiv.org/abs/2003.04078
