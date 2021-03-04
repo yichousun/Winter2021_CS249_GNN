@@ -40,7 +40,7 @@ In this paper colors are represented as vectors, and as such encoding can be don
 * The developed GNN model is simple (compared with other GNN models with k-WL guarantees for k>2) and performs better than existing GNN models.
 
 ### Cons
-* In practice the constructed GNN model does not follow the theory that the dimension of the output embedding vector is extremely high. Therefore, it is not clear whether the proposed GNN model can be more powerful than 3-WL test empirically.
+* In practice the constructed GNN model does not follow the theoretical suggestions by using very high-dimensional embedding vectors. Therefore, it is not clear whether the proposed GNN model can be more powerful than 3-WL test empirically.
 
 * Very mathematically dense paper. Sometimes authors make jumps in logic that aren't very clear.
 
