@@ -15,17 +15,19 @@ For Course Project, each group can firstly create their own github code repo, an
 |10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long| | |
 |11| No Name | Weitong Zhang (weightzero@ucla.edu), Zixiang Chen, Jiafan He| Weitong Zhang | |
 
-**Office Hour Sign-Up Table**
+**Presentation Schedule**
 | Time Slots | Team ID |
 | ------ | ------ |
-| 1/22 1:30 - 1:45 | |
-| 1/22 1:45 - 2:00 | |
-| 1/29 1:00 - 1:15|6. Gotham City|
-| 1/29 1:15 - 1:30|4. Rolling a Dice|
-| 1/29 1:30 - 1:45|1. FST|
-| 1/29 1:45 - 2:00|2. TLM|
-| 1/29 3:00 - 3:15||
-| 1/29 3:15 - 3:30||
-| 1/29 3:30 - 3:45|8. NDNX|
-| 1/29 3:45 - 4:00|9. No Name|
+| 3/18 11:30 - 11:45 | 1. FST|
+| 3/18 11:45 - 12:00 | 2. TLM|
+| 3/18 12:00 - 12:15| 3. XCL|
+| 3/18 12:15 - 12:30|4. Rolling a Dice|
+| 3/18 12:30 - 12:45|5. ZZZ|
+| 3/18 12:45 - 13:00|6. Gotham City|
+| 3/18 13:00 - 13:15|break|
+| 3/18 13:15 - 13:30| 7. TBD|
+| 3/18 13:30 - 13:45|8. NDNX|
+| 3/18 13:45 - 14:00|9. No Name|
+| 3/18 14:00 - 14:15|10. No Name|
+| 3/18 14:15 - 14:30|11. No Name|
 
