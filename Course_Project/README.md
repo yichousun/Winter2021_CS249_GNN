@@ -4,7 +4,7 @@ For Course Project, each group can firstly create their own github code repo, an
 | Team ID | Team Name | Team Members | Team Leader | Project Title |
 | ------ | ------ | ------ | ------ | ------ |
 |1| First Signup Team | Hengda Shi (hengda.shi@cs.ucla.edu), Benlin Liu (liubenlin@cs.ucla.edu), Jiayue Sun (jysun@cs.ucla.edu) | Jiayue Sun (jysun@cs.ucla.edu) | [Survey of GNN on 3D Cloud Point Segmentation](https://github.com/jis216/Survey-GNN-on-point-cloud-segmentation)|
-|2| TLM | Te-Lin Albert Wu (telinwu@cs.ucla.edu), Liunian Harold Li (liunian.harold.li@cs.ucla.edu), Mingyu Derek Ma (ma@cs.ucla.edu) | Mingyu Derek Ma (ma@cs.ucla.edu) | Hierarchical Concept Representation Learning via Poincare-GNN |
+|2| TLM | Te-Lin Albert Wu (telinwu@cs.ucla.edu), Liunian Harold Li (liunian.harold.li@cs.ucla.edu), Mingyu Derek Ma (ma@cs.ucla.edu) | Mingyu Derek Ma (ma@cs.ucla.edu) | [Hierarchical Concept Representation Learning via Hyperbolic GNN](https://github.com/derekmma/cs249-hyperbolic-gnn) |
 |3| XCL | Yuanhao Xiong (yhxiong@cs.ucla.edu), Xiangning Chen (xiangning@cs.ucla.edu), Li-Cheng Lan (lclan@cs.ucla.edu), Lucas Tecot (lucastecot@gmail.com) | Yuanhao Xiong (yhxiong@cs.ucla.edu) |  |
 |4| Rolling a Dice | Shuwen Qiu (s.qiu@ucla.edu), Qing Li (dylan.liqing@gmail.com), Yu Yang (yuyang@cs.ucla.edu), Yihe Deng (yihedeng@g.ucla.edu) |  Yihe Deng (yihedeng@g.ucla.edu) | [On the Extrapolation of Graph Neural Networks and Beyond](https://github.com/liqing-ustc/CS249-GNN-Final) |
 |5| ZZZ | Difan Zou (knowzou@ucla.edu), Ziniu Hu (bull@cs.ucla.edu), Zongyue Qin (qinzongyue@cs.ucla.edu), Shanxiu He (heshanxiu@g.ucla.edu) | Ziniu Hu (bull@cs.ucla.edu) | Graph Adversarial training for Robust and Accurate GNN  |
