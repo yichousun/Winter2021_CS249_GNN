@@ -23,3 +23,16 @@ The task table is below:
 |Program synthesis codes execution | Sripath Mishra |
 |Program synthesis slides | Sripath Mishra |
 |Program synthesis presentation | Sripath Mishra |
+|Decompilation collection | Hemil Desai |
+|Decompilation reading | Hemil Desai |
+|Decompilation text in project | Hemil Desai |
+|Decompilation codes execution | Hemil Desai |
+|Decompilation slides | Hemil Desai |
+|Decompilation presentation | Hemil Desai |
+|CodeXGlue collection | Hemil Desai |
+|CodeXGlue reading | Hemil Desai |
+|CodeXGlue text in project | Hemil Desai |
+|CodeXGlue codes execution | Hemil Desai |
+|CodeXGlue slides | Hemil Desai |
+|CodeXGlues presentation | Hemil Desai |
+|Conclusion in paper | Hemil Desai |
