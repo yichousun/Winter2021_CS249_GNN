@@ -10,7 +10,7 @@ For Course Project, each group can firstly create their own github code repo, an
 |5| ZZZ | Difan Zou (knowzou@ucla.edu), Ziniu Hu (bull@cs.ucla.edu), Zongyue Qin (qinzongyue@cs.ucla.edu), Shanxiu He (heshanxiu@g.ucla.edu) | Ziniu Hu (bull@cs.ucla.edu) | [Graph Adversarial training for Robust and Accurate GNN](https://github.com/ZongyueQin/CS249)  |
 |6| Gotham City | Sriapth Mishra(Mishra60@g.ucla.edu),Hemil Desai (hemil10@g.ucla.edu), Justin Yi (joostinyi00@gmail.com) | Sriapth Mishra(Mishra60@g.ucla.edu) | [GNN In Programming Language](https://github.com/Sripathm2/GNNSurvey) |
 |7| TBD |Tameez Latib (tameezlatib@gmail.com), Howard Xie (howardx@cs.ucla.edu), Daniel Ahn (dahn@g.ucla.edu), Mia Levy (miamlevy@yahoo.com) | Daniel Ahn (dahn@g.ucla.edu) | [Graph Convolutional Reinforcment Learning for Multi-Agent Path Planning](https://github.com/dcahn/EvolutionaryGraphReinforcementLearning) |
-|8| TBD | Nilay Shah (nshah76@ucla.edu), Daisy Zheng (dayz@g.ucla.edu), Nima Zaghari (nzaghari@cs.ucla.edu), Xuan Lin (xuanlin1991@gmail.com) | Nilay Shah (nshah76@ucla.edu) | |
+|8| DNN-X | Nilay Shah (nshah76@ucla.edu), Daisy Zheng (dayz@g.ucla.edu), Nima Zaghari (nzaghari@cs.ucla.edu), Xuan Lin (xuanlin1991@gmail.com) | Nilay Shah (nshah76@ucla.edu) |[GNN for Brain Network Analysis](https://github.com/NShah19/CS249_GNN) |
 |9| No Name | Jingyue Shen (brianshen@ucla.edu), Haochen Li, Boyuan He| Jingyue Shen (brianshen@ucla.edu)| [GNN in KG-based Recommender System](https://github.com/BrianShen98/GNN-in-KG-based-Recommender-System) |
 |10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long| | |
 |11| No Name | Weitong Zhang (weightzero@ucla.edu), Zixiang Chen, Jiafan He| Weitong Zhang | |
