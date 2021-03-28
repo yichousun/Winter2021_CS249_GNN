@@ -12,9 +12,9 @@ For Course Project, each group can firstly create their own github code repo, an
 |7| TBD |Tameez Latib (tameezlatib@gmail.com), Howard Xie (howardx@cs.ucla.edu), Daniel Ahn (dahn@g.ucla.edu), Mia Levy (miamlevy@yahoo.com) | Daniel Ahn (dahn@g.ucla.edu) | [Graph Convolutional Reinforcment Learning for Multi-Agent Path Planning](https://github.com/dcahn/EvolutionaryGraphReinforcementLearning) |
 |8| DNN-X | Nilay Shah (nshah76@ucla.edu), Daisy Zheng (dayz@g.ucla.edu), Nima Zaghari (nzaghari@cs.ucla.edu), Xuan Lin (xuanlin1991@gmail.com) | Nilay Shah (nshah76@ucla.edu) |[GNN for Brain Network Analysis](https://github.com/NShah19/CS249_GNN) |
 |9| No Name | Jingyue Shen (brianshen@ucla.edu), Haochen Li, Boyuan He| Jingyue Shen (brianshen@ucla.edu)| [GNN in KG-based Recommender System](https://github.com/BrianShen98/GNN-in-KG-based-Recommender-System) |
-|10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long| | [A Survey on the Applications of Graph Neural Networks in
-Recommender Systems](/10_A Survey on the Applications of GNN in Recommender Systems)|
-|11| No Name | Weitong Zhang (weightzero@ucla.edu), Zixiang Chen, Jiafan He| Weitong Zhang |[On the Expressive Power of Graph Neural Network](/11_GNN_distributed) |
+|10| No Name | Ruochen Wang (ruocwang@ucla.edu), Yujun Zhao (yujunzhao.ming@gmail.com), Qian Long|  | [A Survey on the Applications of Graph Neural Networks in
+Recommender Systems](10_A Survey on the Applications of GNN in Recommender Systems)|
+|11| No Name | Weitong Zhang (weightzero@ucla.edu), Zixiang Chen, Jiafan He| Weitong Zhang |[On the Expressive Power of Graph Neural Network](11_GNN_distributed) |
 
 **Presentation Schedule**
 | Time Slots | Team ID |
